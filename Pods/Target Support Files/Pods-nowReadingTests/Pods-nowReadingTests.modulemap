@@ -1,0 +1,6 @@
+framework module Pods_nowReadingTests {
+  umbrella header "Pods-nowReadingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
